@@ -19,3 +19,5 @@ In this project, I aimed to predict movie ratings using a dataset of IMDb movies
 ![Image](https://github.com/user-attachments/assets/ae354c81-6349-4127-82f0-b20f7a7ed101)
 
 ![Image](https://github.com/user-attachments/assets/a622431c-eb01-4cd1-b34c-ed3a43c82bef)
+
+![Image](https://github.com/user-attachments/assets/8449074b-5967-4242-ad88-6fe2b2328573)
