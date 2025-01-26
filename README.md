@@ -15,3 +15,5 @@ In this project, I aimed to predict movie ratings using a dataset of IMDb movies
 *OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/72412a80-b059-4515-a3f7-61ef385b69f9)
+
+![Image](https://github.com/user-attachments/assets/ae354c81-6349-4127-82f0-b20f7a7ed101)
